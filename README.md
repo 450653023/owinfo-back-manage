@@ -1,6 +1,26 @@
 # owinfo-back-manage
 基于node+前端未知技术（坏笑）的一套基础后台管理系统
 
+### 目录结构
+```
+    ├── LICENSE
+    ├── README.md
+    ├── dest
+    ├── gulpfile.js
+    ├── node_modules
+    │...
+    ├── package.json
+    ├── source
+    │   ├── front
+    │   │   └── test.js
+    │   └── node
+    └── work
+        ├── front
+        │   └── test.js
+        └── node
+
+    351 directories, 6 files
+```
 #### 注意事项
 
     开发环境为work，已添加至gitignore,需要自行在本地构建。
