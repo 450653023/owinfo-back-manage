@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# work directory 是开发目录，未经过校验的文件讲不能copy
+/work

@@ -1,0 +1,27 @@
+{
+  "name": "owinfo-back-manage",
+  "version": "1.0.0",
+  "description": "基于node的后台管理系统",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-xw/owinfo-back-manage.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "xuewen,meiling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincent-xw/owinfo-back-manage/issues"
+  },
+  "homepage": "https://github.com/vincent-xw/owinfo-back-manage#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
